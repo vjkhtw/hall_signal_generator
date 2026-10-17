@@ -28,3 +28,6 @@ The hall signals are generated based on electrical angle sectors:
   - `pole_pairs`: Number of pole pairs in the motor
 - **Outputs:** 
   - `HallA`, `HallB`, `HallC`: Digital hall sensor signals (0 or 1)
+ 
+## Related
+[Sensorless Control of BLDC Motor Using ANFIS](https://github.com/vjkhtw/BLDC-motor-control-using-ANFIS) (follow-up project)
